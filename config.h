@@ -11,7 +11,9 @@ static const Block blocks[] = {
   {"",  "clocks", 60,  4},
   {"",  "xback", 1,  16},
   {"",  "batterychecks", 10,  4},
-  {"",  "batkit", 10,  4},
+ /* {"",  "batkit", 10,  4},*/
+
+  {"",  "stats", 5,  4},
   {"",  "vol", 1,  16},
   {"",  "lang", 1, 16},
  };
